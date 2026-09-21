@@ -1,0 +1,16 @@
+# Auto detect text files
+* text=auto
+
+# C/C++ source encoding
+*.c text working-tree-encoding=UTF-8
+*.h text working-tree-encoding=UTF-8
+*.cpp text working-tree-encoding=UTF-8
+*.hpp text working-tree-encoding=UTF-8
+
+# Markdown
+*.md text working-tree-encoding=UTF-8
+
+# Scripts
+*.bat text
+*.cmd text
+*.ps1 text
